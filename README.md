@@ -6,3 +6,8 @@ In this repository I will explain about OOP concept of Interface.An interface is
 
 in this repository I will explain about Java Interface.
 There are 1 Vehicle Interface and 3 class that implement Vehicle such as picture above.
+
+The result will be given below 
+
+![alt tag](http://i.imgur.com/gflsY4p.png)
+
